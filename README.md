@@ -6,5 +6,5 @@ Grade Level = 0.39 * (words / sentences) + 11.8 * (syllables / words) - 15.59
 - full name: 
 - email: 
 - programming language: Python
-- NLP APIs used: NLTK
-- Main file for execution: scorer.py
+- NLP APIs used: NLTK - Tokenizers
+- Main file for execution: main.py
