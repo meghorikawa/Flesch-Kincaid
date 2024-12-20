@@ -1,5 +1,8 @@
 import syllables
+import nltk
 import nltk.tokenize
+
+nltk.download('punkt_tab')
 
 # for this I need a list of words from the text
 # total syllables
