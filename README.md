@@ -8,4 +8,3 @@ Grade Level = 0.39 * (words / sentences) + 11.8 * (syllables / words) - 15.59
 - programming language: Python
 - NLP APIs used: NLTK - Tokenizers
 - Main file for execution: main.py
-
